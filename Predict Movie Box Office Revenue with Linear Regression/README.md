@@ -1,7 +1,7 @@
 # Predict Movie Box Office Revenue with Linear Regression
 
 ### Overview
-A simple linear model that predicts how much revenue a movie would make based on the movie budget.
+A simple linear model that predicts how much revenue a produced movie would generate based on the movie's budget.
 
 ### Run notebook
 Best to open the notebook in Google Colab:
@@ -17,4 +17,4 @@ This project used **Python** and the following Python libraries installed:
 
 ### The Original Data is gotten from:
 - [Numbers](https://www.the-numbers.com/movie/budgets)
-Note: The cleaned data CSV file is attached. 
+<br> Note: My cleaned data .csv file is uploaded as well. 
